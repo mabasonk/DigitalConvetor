@@ -1,0 +1,13 @@
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.exe
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.deps.json
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.runtimeconfig.json
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.runtimeconfig.dev.json
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.dll
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\bin\Debug\netcoreapp3.1\DigitalConvetor.pdb
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.csprojAssemblyReference.cache
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.AssemblyInfoInputs.cache
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.AssemblyInfo.cs
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.csproj.CoreCompileInputs.cache
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.dll
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.pdb
+C:\Users\nmabaso\source\repos\DigitalConvetor\DigitalConvetor\obj\Debug\netcoreapp3.1\DigitalConvetor.genruntimeconfig.cache
